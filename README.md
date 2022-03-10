@@ -1,7 +1,6 @@
 # CS5244_Full-stack-E-commerce-bookstore
 Developed a dynamic RWD E-commerce bookstore, frontend with Figma, Vue.js/Vuex.
-Using Vue.js implement a full-stack webapp for E-comm bookstore including client-side routing to different pages, validation for both client-side and server-side, several states management, session management, Transaction and Hardening the code. 
-REST API using the DAO Pattern Ajax and MySQL
+Using Vue.js implement a full-stack webapp for E-comm bookstore including client-side routing to different pages, validation for both client-side and server-side, several states management, session management, Transaction and Hardening the code. With RESTfull APIs that enabled users CRUD books on their cart and fetch data from MySQL.
 http://cs5244.cs.vt.edu:8080/ShiChiBookstoreTransact/
 
 # Intro
